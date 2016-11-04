@@ -1,3 +1,2 @@
-# les-html
-уроки по HTML
-https://infokuznya.github.io/les-html/
+# Курс по InDesign
+Your site is published at https://infokuznya.github.io/course-InDesign/
